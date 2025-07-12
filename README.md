@@ -55,3 +55,5 @@ Ensure you have a SQL environment (e.g., MySQL, PostgreSQL) with the salaries ta
 Run the queries in use join exp.sql sequentially or as needed.
 
 Analyze the result tables to draw insights about how remote work patterns are changing over time.
+
+<img width="622" height="161" alt="SQL Analysis" src="https://github.com/user-attachments/assets/afe6527a-72b8-45ad-8621-a74395c14e51" />
