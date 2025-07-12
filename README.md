@@ -40,9 +40,13 @@ Data grouping via GROUP BY
 
 📌 Sample Output (Conceptual)
 
-Experience Level	  % Remote 2021   	% Remote 2024	     Delta
-  Junior            	   45.00	          52.38         INCREASE
-  Senior	               60.00	          48.00	        DECREASE
+Experience Level	- Junior      Senior
+
+% Remote 2021      45.00        60.00
+
+% Remote 2024	     52.38        48.00
+
+Delta            INCREASE      DECREASE
 
 🚀 How to Use
 
